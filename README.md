@@ -12,6 +12,14 @@
 yarn
 ```
 
+- Enter the `src/config` folder and copy the `config.js.example` file to `config.js` file
+
+```
+cp config.js.example config.js
+```
+
+- Put your **[Open Weather Map API key](https://openweathermap.org/)** in the `src/config/config.js` file
+
 ## Commands available
 
 - To run the app in development mode use

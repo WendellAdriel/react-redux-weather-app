@@ -1,0 +1,2 @@
+export const API_KEY = 'OPEN_WEAHTER_MAP_API_KEY'
+export const API_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`
