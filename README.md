@@ -12,13 +12,13 @@
 yarn
 ```
 
-- Enter the `src/config` folder and copy the `config.js.example` file to `config.js` file
+- Enter the `src/config` folder and copy the `index.js.example` file to `index.js` file
 
 ```
-cp config.js.example config.js
+cp index.js.example index.js
 ```
 
-- Put your **[Open Weather Map API key](https://openweathermap.org/)** in the `src/config/config.js` file
+- Put your **[Open Weather Map API key](https://openweathermap.org/)** in the `src/config/index.js` file
 
 ## Commands available
 
